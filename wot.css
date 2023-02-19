@@ -1,0 +1,9 @@
+.name{
+    display: flex;
+    flex-direction: row;
+    margin: 0px 100px;
+}
+.report{
+    padding: 20;
+    background-color: rgba(red, green, blue, alpha);
+}
